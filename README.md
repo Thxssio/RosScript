@@ -7,13 +7,19 @@
 - [x] Python
 - [x] Ubuntu 20.04
 
-´´´
-chmod 777 InstalationRos.py 
-´´´
 
-´´´
-sudo python InstalationRos.py - I 
-´´´
+
+
+```
+chmod 777 InstalationRos.py 
+```
+
+```
+sudo python InstalationRos.py -i 
+```
+
+
+
 
 Return:
 
